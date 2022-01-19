@@ -11,7 +11,7 @@
   <img align="center" alt="Ant-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Ant-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ant-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ant-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nest/nest-original.svg">
+  <img align="center" alt="Ant-Nest" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nestjs/nestjs-plain.svg">
 </div>
   
   ##
