@@ -20,3 +20,10 @@
   
 <a href="https://www.linkedin.com/in/enrico-brosque-palma" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://discordapp.com/users/844617220830527548" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  
+  
+  <td width="50%">
+
+&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/grougaloragran)
+
+  </td>
