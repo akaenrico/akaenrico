@@ -22,8 +22,4 @@
 <a href="https://discordapp.com/users/844617220830527548" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   
   
-  <td width="50%">
-
-&nbsp; <br> [![Spotify](https://novatorem-antromowda.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/grougaloragran)
-
-  </td>
+ [![Spotify](https://novatorem-antromowda.vercel.app/api/spotify/?background_color=00000000&border_color=00000000)](https://open.spotify.com/user/grougaloragran)
