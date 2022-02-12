@@ -1,10 +1,8 @@
 **Opa! :)**
 
 # WIP
-<div>
-  <a href="https://antromowda.github.io/" target="_blank" rel="noopener noreferrer"> My Portfolio </a>
-  
-</div>
+<a href="https://antromowda.github.io/" target="_blank" rel="noopener noreferrer"> My Portfolio </a>
+
 
 ##
 
