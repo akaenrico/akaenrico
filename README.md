@@ -29,4 +29,4 @@
   
   ##
   
- [![Spotify](https://novatorem-gitbranchenrico.vercel.app/api/spotify/?background_color=00000000&border_color=00000000)](https://open.spotify.com/user/grougaloragran)
+ [![Spotify](https://novatorem-antromowda.vercel.app/api/spotify/?background_color=00000000&border_color=00000000)](https://open.spotify.com/user/grougaloragran)
