@@ -1,8 +1,6 @@
 **Opa! :)**
 
-# WIP
 <a href="https://gitbranchenrico.github.io/" target="_blank" rel="noopener noreferrer"> My Portfolio </a>
-
 
 ##
 
