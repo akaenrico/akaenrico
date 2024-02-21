@@ -1,6 +1,6 @@
-**Opa! :)**
+**Howdy 🤠**
 
-<a href="https://gitbranchenrico.github.io/" target="_blank" rel="noopener noreferrer"> My Portfolio </a>
+<a href="https://akaenrico.github.io/" target="_blank" rel="noopener noreferrer"> My Portfolio </a>
 
 ##
 
