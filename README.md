@@ -1,7 +1,5 @@
 **Howdy 🤠**
 
-<!-- <a href="https://akaenrico.github.io/" target="_blank" rel="noopener noreferrer"> My Portfolio </a> -->
-
 ##
 
 <div style="display: inline_block"><br>
@@ -22,7 +20,7 @@
   
   ##
   
-<!-- <a href="https://www.linkedin.com/in/enrico-brosque-palma" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> -->
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=akaenrico&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
   
   ##
   
