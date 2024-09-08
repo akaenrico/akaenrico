@@ -18,9 +18,9 @@
   
 </div>
   
-  ##
+<!--  ##
   
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=akaenrico&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=akaenrico&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
   
   ##
   
