@@ -1,4 +1,4 @@
-**Howdy 🤠**
+<img align="center" alt="Blood Angels Chapter" src="https://6inchmove.wordpress.com/wp-content/uploads/2010/03/blood_angels_badge.png">
 
 ##
 
