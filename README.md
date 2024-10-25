@@ -32,7 +32,7 @@
   ##
   
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=akaenrico&theme=dracula&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akaenrico&hide_progress=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akaenrico&hide_progress=true&layout=pie&theme=dracula)
   
   ##
   
