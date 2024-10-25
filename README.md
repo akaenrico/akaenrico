@@ -1,4 +1,8 @@
 <img align="center" alt="Blood Angels Chapter" src="https://6inchmove.wordpress.com/wp-content/uploads/2010/03/blood_angels_badge.png">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akaenrico&theme=dracula&rank_icon=github">
+  <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akaenrico&hide_progress=true&layout=compact&theme=dracula"> -->
+</a>
 
   ##
 
@@ -28,12 +32,6 @@
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" alt="Spring Boot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
 </div>
-  
-  ##
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akaenrico&theme=dracula&rank_icon=github">
-  <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akaenrico&hide_progress=true&layout=compact&theme=dracula"> -->
-</a>
   
   ##
   
