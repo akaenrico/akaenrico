@@ -32,9 +32,8 @@
   ##
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=akaenrico&theme=dracula&rank_icon=github">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akaenrico&hide_progress=true&layout=pie&theme=dracula">
 </a>
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=akaenrico&theme=dracula&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akaenrico&hide_progress=true&layout=pie&theme=dracula)
   
   ##
   
