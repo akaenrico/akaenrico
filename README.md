@@ -1,6 +1,6 @@
 <img align="center" alt="Blood Angels Chapter" src="https://6inchmove.wordpress.com/wp-content/uploads/2010/03/blood_angels_badge.png">
 
-##
+  ##
 
 <div style="display: inline_block"><br>
   <!-- JS -->
@@ -29,10 +29,10 @@
   <img align="center" alt="Spring Boot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
 </div>
   
-<!--  ##
+  ##
   
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=akaenrico&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=akaenrico&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
   
   ##
   
- [![Spotify](https://novatorem-antromowda.vercel.app/api/spotify/?background_color=00000000&border_color=00000000)](https://open.spotify.com/user/grougaloragran)
+[![Spotify](https://novatorem-antromowda.vercel.app/api/spotify/?background_color=00000000&border_color=00000000)](https://open.spotify.com/user/grougaloragran)
