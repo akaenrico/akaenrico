@@ -28,8 +28,8 @@
   <!-- Java -->
   <!-- <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" alt="Spring Boot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"> -->
-</div>
-At the end of the year of 2025 i want to be able to work in ASP.NET projects.
+</div><br>
+At the end of the year of 2025 i want to be able to work in ASP.NET Core projects.
   
   ##
   
