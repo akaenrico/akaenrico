@@ -2,11 +2,7 @@
 
   ##
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,js,ts,nodejs,nestjs,vuejs,postgres,docker,kubernetes" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=go,js,ts,nodejs,nestjs,vuejs,postgres,docker,kubernetes,aws)](https://skillicons.dev)
   
   ##
   
