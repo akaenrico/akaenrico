@@ -2,7 +2,7 @@
 
   ##
 
-[![My Skills](https://skillicons.dev/icons?i=go,js,ts,nodejs,nestjs,vuejs,postgres,docker,kubernetes,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,js,ts,nodejs,nestjs,vuejs,postgres,mongodb,redis,docker,kubernetes,aws)](https://skillicons.dev)
   
   ##
   
