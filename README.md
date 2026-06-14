@@ -48,7 +48,9 @@ Full Stack Software Engineer focused on backend systems, financial integrations,
 </div>
 
 <h2>Current project</h2>
-<img src=".github/assets/lupercal-rounded.png" alt="lupercal" width="100" />
+<a href="https://github.com/lupercal-md">
+  <img src=".github/assets/lupercal-rounded.png" alt="lupercal" width="100" />
+</a>
 
 ##
 
