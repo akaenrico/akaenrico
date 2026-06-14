@@ -47,6 +47,9 @@ Full Stack Software Engineer focused on backend systems, financial integrations,
   </p>
 </div>
 
+<h2>Current project</h2>
+<img src=".github/assets/lupercal-rounded.png" alt="lupercal" width="100" />
+
 ##
-  
+
 [![Spotify](https://novatorem-antromowda.vercel.app/api/spotify/?background_color=00000000&border_color=00000000)](https://open.spotify.com/user/grougaloragran)
