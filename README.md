@@ -11,7 +11,7 @@ Full Stack Software Engineer focused on backend systems, financial integrations,
   <p>
     <strong>BACKEND</strong><br />
     <a href="https://builder.syvixor.com/">
-      <img src="https://skills.syvixor.com/api/icons?perline=15&i=golang,nestjs,nodejs,typescript,javascript" alt="Backend skills" />
+      <img src="https://skills.syvixor.com/api/icons?perline=15&i=golang,nestjs,nodejs,typescript,javascript,jest" alt="Backend skills" />
     </a>
   </p>
 
